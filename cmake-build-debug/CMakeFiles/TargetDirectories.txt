@@ -1,0 +1,3 @@
+C:/Users/liorx/CLionProjects/mini-linux-shell/cmake-build-debug/CMakeFiles/mini_linux_shell.dir
+C:/Users/liorx/CLionProjects/mini-linux-shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liorx/CLionProjects/mini-linux-shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
